@@ -3,7 +3,7 @@ const filterWordsEN = [
     'corona',
     'covid',
     'sars-cov',
-    'quarantin',
+    'quarantine',
     'hoard',
     'toilet paper',
     'pandemic',
